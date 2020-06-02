@@ -1,7 +1,0 @@
-[workspace]
-members = [
-    "obelisk",
-    "obelisk-macros",
-    "lib/quicksilver",
-    "lib/good-web-game"
-]
