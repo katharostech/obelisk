@@ -1,0 +1,6 @@
+[submodule "lib/quicksilver"]
+	path = lib/quicksilver
+	url = https://github.com/ryanisaacg/quicksilver.git
+[submodule "lib/good-web-game"]
+	path = lib/good-web-game
+	url = https://github.com/not-fl3/good-web-game.git
