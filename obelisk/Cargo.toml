@@ -1,0 +1,9 @@
+[package]
+name = "obelisk"
+version = "0.1.0"
+authors = ["Zicklag <zicklag@katharostech.com>"]
+edition = "2018"
+
+[dependencies]
+gluon = "0.15.0"
+shipyard = "0.4.1"
